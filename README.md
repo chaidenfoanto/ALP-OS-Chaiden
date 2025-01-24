@@ -120,7 +120,6 @@ Aplikasi CLI ini mendukung **12 command dasar** yang wajib diimplementasikan ser
    help
    ```
 
-
 ### **Command Tambahan**
 1. **Menampilkan file lebih besar dari ukuran tertentu:**  
    ```bash
