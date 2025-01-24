@@ -108,29 +108,29 @@ Aplikasi CLI ini mendukung **12 command dasar** yang wajib diimplementasikan ser
 10. **Membersihkan layar terminal:**  
    ```bash
    clear
-    ```
+   ```
 
 11. **Keluar dari program:**  
    ```bash
    exit
-    ```
+   ```
 
 12. **Melihat daftar perintah yang tersedia:**  
    ```bash
    help
-    ```
+   ```
 
 
 ### **Command Tambahan**
 1. **Menampilkan file lebih besar dari ukuran tertentu:**  
    ```bash
    help
-    ```
+   ```
 
 2. **Menampilkan struktur direktori dalam bentuk pohon:**
   ```bash
    tree
-    ```
+   ```
 
 3. **Menampilkan lelucon acak:**
   ```bash
