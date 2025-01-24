@@ -1,6 +1,6 @@
 # **ALP Operating System**
 
-Nama  : Chaiden Richardo Foanto
+Nama  : Chaiden Richardo Foanto\n
 NIM   : 0806022310023
 
 ### **Reimplementasi Basic CLI pada Sistem Linux Menggunakan Python**
