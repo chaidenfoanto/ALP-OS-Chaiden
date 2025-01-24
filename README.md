@@ -117,23 +117,23 @@ Aplikasi CLI ini mendukung **12 command dasar** yang wajib diimplementasikan ser
 
 12. **Melihat daftar perintah yang tersedia:**  
    ```bash
-help
+   help
    ```
 
 
 ### **Command Tambahan**
 1. **Menampilkan file lebih besar dari ukuran tertentu:**  
    ```bash
-find_large <size>
+   find_large <size>
    ```
 
 2. **Menampilkan struktur direktori dalam bentuk pohon:**
-  ```bash
-tree
+   ```bash
+   tree
    ```
 
 3. **Menampilkan lelucon acak:**
-  ```bash
-joke
-  ```
+   ```bash
+   joke
+   ```
 
